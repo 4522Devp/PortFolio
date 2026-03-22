@@ -84,7 +84,7 @@ const portfolioData = {
     },
     {
       role: "Agentforce Trainee",
-      company: "Salesforce",
+      company: "TheSmartBridge",
       period: "Oct 2025 – Dec 2025",
       icon: "fa-solid fa-cloud",
       color: "#00a1e0"
