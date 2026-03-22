@@ -251,9 +251,19 @@ function initHamburger() {
   const hamburger = document.querySelector(".Humburger");
   const navLinks = document.querySelector(".nav-links");
   if (!hamburger) return;
+
+  // Toggle menu on hamburger click
   hamburger.addEventListener("click", () => {
     hamburger.classList.toggle("active");
     navLinks.classList.toggle("active");
+  });
+
+  // Close menu when any nav link is tapped
+  document.querySelectorAll(".nav-links a").forEach(link => {
+    link.addEventListener("click", () => {
+      hamburger.classList.remove("active");
+      navLinks.classList.remove("active");
+    });
   });
 }
 
