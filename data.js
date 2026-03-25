@@ -24,7 +24,7 @@ const portfolioData = {
     {
       category: "Cloud & Databases",
       icon: "fa-solid fa-database",
-      items: ["Microsoft Azure", "MySQL", "Oracle Cloud Infrastructure"]
+      items: ["Microsoft Azure", "MySQL", "Oracle Cloud Infrastructure", "Amazon Web Services(AWS)"]
     },
     {
       category: "Tools",
