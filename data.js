@@ -1,7 +1,3 @@
-// ============================================================
-//  PORTFOLIO STATIC DATA
-// ============================================================
-
 const portfolioData = {
 
   skills: [
@@ -45,7 +41,7 @@ const portfolioData = {
       description: "Engineered a high-security Campus Area Network (CAN) across three academic blocks, exclusively designed for faculty and administrative operations to ensure isolation of sensitive institutional data from the general student population.",
       tags: ["Project Management", "Routing Protocols", "LAN Switching", "Cisco Systems", "Packet Switching", "VLAN"],
       liveLink: "#",
-      githubLink: "#",
+      githubLink: "https://github.com/DevvP4522/Campus-Area-Network",
       icon: "fa-solid fa-building"
     },
     {
@@ -96,63 +92,63 @@ const portfolioData = {
       title: "Jira Essentials",
       issuer: "Atlassian",
       icon: "fa-brands fa-atlassian",
-      driveLink: "#",
+      driveLink: "https://cp.certmetrics.com/atlassian/en/public/badge/c?id=712020:dd8c0b99-45d1-4add-813b-380af2bd81b4&ccat=58&date=2026-1-16",
       color: "#0052cc"
     },
     {
       title: "Rovo Fundamentals",
       issuer: "Atlassian",
       icon: "fa-brands fa-atlassian",
-      driveLink: "#",
+      driveLink: "https://cp.certmetrics.com/atlassian/en/public/badge/c?id=712020:dd8c0b99-45d1-4add-813b-380af2bd81b4&ccat=69&date=2025-12-30",
       color: "#0052cc"
     },
     {
       title: "Forge Fundamentals",
       issuer: "Atlassian",
       icon: "fa-brands fa-atlassian",
-      driveLink: "#",
+      driveLink: "https://cp.certmetrics.com/atlassian/en/public/badge/c?id=712020:dd8c0b99-45d1-4add-813b-380af2bd81b4&ccat=70&date=2025-12-30",
       color: "#0052cc"
     },
     {
       title: "Azure Fundamentals (AZ-900)",
       issuer: "Microsoft",
       icon: "fa-brands fa-microsoft",
-      driveLink: "#",
+      driveLink: "https://learn.microsoft.com/en-in/users/devpatel4522/credentials/3fd3ffe196cb2392",
       color: "#00a4ef"
     },
     {
       title: "Azure Administrator (AZ-104)",
       issuer: "Microsoft",
       icon: "fa-brands fa-microsoft",
-      driveLink: "#",
+      driveLink: "https://learn.microsoft.com/en-in/users/devpatel4522/credentials/7c0b9864882ab979",
       color: "#00a4ef"
     },
     {
       title: "Azure Network Engineer Associate",
       issuer: "Microsoft",
       icon: "fa-brands fa-microsoft",
-      driveLink: "#",
+      driveLink: "https://learn.microsoft.com/en-in/users/devpatel4522/credentials/7b94ccda3a420fd2",
       color: "#00a4ef"
     },
     {
       title: "AWS Solutions Architect – Associate",
       issuer: "Amazon Web Services",
       icon: "fa-brands fa-aws",
-      driveLink: "#",
+      driveLink: "https://www.credly.com/badges/5677829d-c4bf-4fef-a6f4-8614e2cb06ef/",
       color: "#ff9900"
     },
     {
       title: "OCI 2025 AI Foundations Associate",
       issuer: "Oracle Cloud",
       icon: "fa-solid fa-circle-nodes",
-      driveLink: "#",
+      driveLink: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=4A616E786B1296BB1BE2F144E38A8088FADC46CEA4D3D56039DAC1CF256417A7",
       color: "#f80000"
     },
     {
       title: "OCI 2025 Foundations Associate",
       issuer: "Oracle Cloud",
       icon: "fa-solid fa-circle-nodes",
-      driveLink: "#",
+      driveLink: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F54279AA21ABFCC6E77AECB2781932DCE458853DDECA58CDF371E895D376C9D",
       color: "#f80000"
     }
   ]
